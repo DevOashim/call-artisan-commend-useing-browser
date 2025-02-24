@@ -276,7 +276,7 @@
         const makeOptions = [
             "controller Controller","controller","controller Controller --resource",
              "model","mail Mail", "mail",
-             "migration _table", "migration", "migration  _table --table= s",
+             "migration _table", "migration", "migration  _table --table=s",
              "seeder Seeder", "seeder","scope",
             "factory", "middleware", "command","component", "event", "job",
             "listener", "notification",
