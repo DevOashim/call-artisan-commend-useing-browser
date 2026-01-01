@@ -4,7 +4,7 @@ This project allows you to execute Laravel Artisan commands directly from your b
 
 ---
 
-## ✨ Features
+## Features
 
 - **Execute Artisan commands from the browser**: Run commands without using the terminal.
 - **Dark and light mode support**: Toggle between themes for better visibility.
@@ -14,7 +14,7 @@ This project allows you to execute Laravel Artisan commands directly from your b
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Update `web.php`
 Add the following routes to your `routes/web.php` file:
